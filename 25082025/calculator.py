@@ -10,6 +10,7 @@ def complete_operation(num1: float, num2: float, operation: int) -> float:
     else:
         print('Invalid code.')
         return 
+
 def should_break_operation(operation: int) -> bool:
     return operation == 0
 
