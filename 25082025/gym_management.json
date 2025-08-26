@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "joaoao",
+        "ageInNumber": 19,
+        "height": 1.8,
+        "active": true,
+        "grades": [
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 1,
+        "name": "joaoao",
+        "ageInNumber": 19,
+        "height": 1.8,
+        "active": true,
+        "grades": [
+            1,
+            2,
+            3
+        ]
+    }
+]
